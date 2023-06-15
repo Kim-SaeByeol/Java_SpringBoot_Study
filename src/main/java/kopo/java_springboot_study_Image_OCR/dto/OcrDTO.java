@@ -1,4 +1,4 @@
-package kopo.java_springboot_study.dto;
+package kopo.java_springboot_study_Image_OCR.dto;
 
 import lombok.Data;
 import lombok.Getter;
